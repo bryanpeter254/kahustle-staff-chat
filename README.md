@@ -1,2 +1,2 @@
-# kahustle-staff-chat
+#staff-chat
 A chat application among staff 
